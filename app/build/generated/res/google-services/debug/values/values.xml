@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">440103445119-biq80vf5dfot718bf634c75te0v95ifn.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://healthconnect-8c8af.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">440103445119</string>
+    <string name="google_api_key" translatable="false">AIzaSyCqtLQHNmbaMaoMwkxZVamdRnUNevdyWeA</string>
+    <string name="google_app_id" translatable="false">1:440103445119:android:21ad6d92459b377b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqtLQHNmbaMaoMwkxZVamdRnUNevdyWeA</string>
+    <string name="google_storage_bucket" translatable="false">healthconnect-8c8af.appspot.com</string>
+    <string name="project_id" translatable="false">healthconnect-8c8af</string>
+</resources>
