@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background_home_1"
     tools:context=".SignUpActivity">
 
     <LinearLayout
@@ -29,15 +29,16 @@
             android:layout_marginTop="150dp"
             android:fontFamily="@font/roboto_slab_light"
             android:text="@string/prompt_account_type"
-            android:textColor="#17A589"
-            android:textSize="24sp" />
+            android:textColor="#00cc00"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="30dp"
             android:fontFamily="@font/roboto_slab"
-            android:text="@string/prompt_patient_doctor"
+            android:text="@string/prompt_donor_charity"
             android:textSize="14sp" />
 
             <TableRow
@@ -49,16 +50,16 @@
                     android:id="@+id/patientBtn"
                     android:layout_width="70dp"
                     android:layout_height="70dp"
-                    android:padding="10dp"
-                    android:background="@drawable/patient"
-                    android:layout_marginEnd="30dp" />
+                    android:layout_marginEnd="30dp"
+                    android:background="@drawable/donor"
+                    android:padding="10dp" />
 
                 <ImageButton
                     android:id="@+id/doctorBtn"
                     android:layout_width="70dp"
                     android:layout_height="70dp"
-                    android:background="@drawable/doctor"
-                    android:text="@string/action_select_doctor" />
+                    android:background="@drawable/doctor_2"
+                    android:text="@string/action_select_charity" />
             </TableRow>
 
     </LinearLayout>

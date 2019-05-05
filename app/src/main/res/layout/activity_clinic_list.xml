@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background_home_1"
     tools:context=".ClinicListActivity">
 
     <TableLayout
@@ -23,9 +23,10 @@
                 android:gravity="center_vertical"
                 android:paddingStart="20dp"
                 android:paddingTop="0dp"
-                android:text="@string/title_clinic_list"
-                android:textColor="#17A589"
-                android:textSize="16sp" />
+                android:text="@string/title_charity_list"
+                android:textColor="#00cc00"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/clinicNameTV"

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background_home"
     tools:context=".PatientProfileFragment">
 
     <!-- TODO: Update blank fragment layout -->
@@ -30,10 +30,10 @@
             <ImageView
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:src="@drawable/patient"
                 android:layout_gravity="center"
+                android:layout_marginBottom="50dp"
                 android:layout_marginTop="50dp"
-                android:layout_marginBottom="50dp"/>
+                android:src="@drawable/donor" />
 
             <TableLayout
                 android:layout_width="wrap_content"

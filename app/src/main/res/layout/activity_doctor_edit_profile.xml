@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background_home_1"
     tools:context=".DoctorEditProfileActivity">
 
     <LinearLayout
@@ -31,7 +31,8 @@
             android:fontFamily="@font/roboto_slab_light"
             android:text="@string/title_edit_profile"
             android:textColor="#2E86C1"
-            android:textSize="25sp" />
+            android:textSize="25sp"
+            android:textStyle="bold"/>
 
         <!--name-->
         <android.support.design.widget.TextInputLayout

@@ -1,0 +1,4 @@
+#Sun May 05 13:54:09 AEST 2019
+base.0=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

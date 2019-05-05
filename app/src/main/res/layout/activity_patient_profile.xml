@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background_home"
     tools:context=".PatientProfileActivity">
 
         <LinearLayout
@@ -25,10 +25,10 @@
             <ImageView
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/patient"
                 android:layout_gravity="center"
+                android:layout_marginBottom="50dp"
                 android:layout_marginTop="80dp"
-                android:layout_marginBottom="50dp"/>
+                android:src="@drawable/donor" />
 
             <TableLayout
                 android:layout_width="wrap_content"

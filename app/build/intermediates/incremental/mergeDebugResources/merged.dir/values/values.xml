@@ -1170,7 +1170,7 @@
     <string name="action_next">"Next"</string>
     <string name="action_register_short">Sign up</string>
     <string name="action_save">Save</string>
-    <string name="action_select_doctor">Doctor</string>
+    <string name="action_select_charity">Charity</string>
     <string name="action_select_patient">Patient</string>
     <string name="action_send">Send</string>
     <string name="action_send_HR">Send your heart rate</string>
@@ -1314,11 +1314,11 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email"</string>
     <string name="project_id" translatable="false">healthconnect-8c8af</string>
     <string name="prompt_account_type">Choose account type.</string>
+    <string name="prompt_donor_charity">"Are you a Donor or Charity?"</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_enter_email">"Enter your email to reset password.</string>
     <string name="prompt_gender">Gender </string>
     <string name="prompt_password">Password</string>
-    <string name="prompt_patient_doctor">"Are you a patient or doctor?"</string>
     <string name="prompt_register">"Don't have an account?"</string>
     <string name="search_menu_title">Search</string>
     <string name="sign_out">Sign Out</string>
@@ -1330,8 +1330,8 @@
     <string name="title_activity_messaging">MessagingActivity</string>
     <string name="title_bpm">0 bpm</string>
     <string name="title_change_pw">Update your password.</string>
+    <string name="title_charity_list">Near by Charities: </string>
     <string name="title_clinic">Clinic</string>
-    <string name="title_clinic_list">Doctors available at: </string>
     <string name="title_edit_profile">Edit your profile.</string>
     <string name="title_existing_chats">Existing Chats</string>
     <string name="title_flash">Flash</string>
@@ -1339,7 +1339,7 @@
     <string name="title_list_patients">Patients</string>
     <string name="title_map">Map</string>
     <string name="title_messages">Messages</string>
-    <string name="title_no_doctors">Unfortunately, there are no doctors available at this clinic.</string>
+    <string name="title_no_doctors">Unfortunately, there are no charities available at this clinic.</string>
     <string name="title_profile">Profile</string>
     <string name="title_register">Register here.</string>
     <string name="title_setting">Setting</string>

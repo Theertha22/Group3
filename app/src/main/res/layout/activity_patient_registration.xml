@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background_home_1"
     tools:context=".PatientRegistrationActivity">
 
     <LinearLayout
@@ -29,8 +29,9 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/roboto_slab_light"
             android:text="@string/title_register"
-            android:textColor="#17A589"
-            android:textSize="20sp" />
+            android:textColor="#00cc00"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
 
         <!--name-->
         <android.support.design.widget.TextInputLayout
@@ -115,7 +116,7 @@
                 android:background="@drawable/secondary_patient_button"
                 android:onClick="showDatePickerDialog"
                 android:text="@string/action_date_of_birth"
-                android:textColor="#17A589" />
+                android:textColor="#00cc00" />
 
             <!--selected date of birth-->
             <TextView

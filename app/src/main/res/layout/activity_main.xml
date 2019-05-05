@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background_home_1"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -28,7 +28,7 @@
             android:layout_height="80dp"
             android:layout_gravity="center"
             android:layout_margin="30dp"
-            android:src="@drawable/cardiogram"/>
+            android:src="@drawable/blood" />
 
         <!--email-->
         <android.support.design.widget.TextInputLayout
@@ -83,7 +83,7 @@
             android:background="@android:color/transparent"
             android:fontFamily="@font/roboto_slab"
             android:text="@string/action_forgot_password"
-            android:textColor="#76D7C4"
+            android:textColor="#00cc00"
             android:textSize="12sp" />
 
         <TableRow
@@ -108,7 +108,7 @@
                 android:fontFamily="@font/roboto_slab"
                 android:text="@string/action_register_short"
                 android:textAllCaps="false"
-                android:textColor="#76D7C4"
+                android:textColor="#00cc00"
                 android:textSize="12sp" />
         </TableRow>
 

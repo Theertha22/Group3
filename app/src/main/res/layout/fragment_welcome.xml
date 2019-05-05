@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background_home"
     tools:context=".WelcomeFragment">
 
     <android.support.design.widget.CoordinatorLayout
@@ -18,7 +18,7 @@
             android:layout_height="100dp"
             android:layout_gravity="center"
             android:layout_margin="30dp"
-            android:src="@drawable/welcomeicon"/>
+            android:src="@drawable/healthcare" />
 
     </android.support.design.widget.CoordinatorLayout>
 
