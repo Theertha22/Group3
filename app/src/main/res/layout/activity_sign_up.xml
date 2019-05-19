@@ -58,7 +58,7 @@
                     android:id="@+id/doctorBtn"
                     android:layout_width="70dp"
                     android:layout_height="70dp"
-                    android:background="@drawable/doctor_2"
+                    android:background="@drawable/charity"
                     android:text="@string/action_select_charity" />
             </TableRow>
 

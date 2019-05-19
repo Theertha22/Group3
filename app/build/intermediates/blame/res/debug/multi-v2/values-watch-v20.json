@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fe9a4ff6a9b7457e477b2ca9d112e5ed/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/theerthasunesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/30623e9328044edf443e32fed2a04a43/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/d65b711f779dd1f8a1e4925f83abe2f5/res/values-watch-v20/values.xml",
+                    "source": "/Users/theerthasunesh/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/942778c5d5bf6d1374ee6a8309cc1670/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

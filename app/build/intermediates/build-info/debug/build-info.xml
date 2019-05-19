@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="27"
+    api-level="28"
     build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1557028426051"
-    token="-5033266614357078365"
+    timestamp="1558251956538"
+    token="-1797170485767134158"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
@@ -18,93 +18,93 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1231" />
+        duration="1336" />
     <task
         name="verifier"
-        duration="503" />
+        duration="1194" />
 
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1557028426051"
+        timestamp="1558251956538"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

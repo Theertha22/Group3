@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
             "map": [
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fe9a4ff6a9b7457e477b2ca9d112e5ed/res/values-zu/values-zu.xml",
+                    "source": "/Users/theerthasunesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/30623e9328044edf443e32fed2a04a43/res/values-zu/values-zu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bef57b6335d9051f74ef021d769b7d9b/res/values-zu/values-zu.xml",
+                    "source": "/Users/theerthasunesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/982efba0dfeca521d340f6591b73fe4b/res/values-zu/values-zu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/ad600bc27876cc80fab3760300a94c70/res/values-zu/values.xml",
+                    "source": "/Users/theerthasunesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c94f109d3671f4d12242937df162901b/res/values-zu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5b2a43988def20c6c06fca3e9b2eb1ba/res/values-zu/values.xml",
+                    "source": "/Users/theerthasunesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/46c7cc73acce8f9abd4781b3f1d88ccc/res/values-zu/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

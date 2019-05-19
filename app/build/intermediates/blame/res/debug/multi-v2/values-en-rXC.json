@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fe9a4ff6a9b7457e477b2ca9d112e5ed/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/theerthasunesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/30623e9328044edf443e32fed2a04a43/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
