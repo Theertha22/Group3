@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="sections">
+        <item>Pro Constructive</item>
+        <item>Con Constructive</item>
+        <item>1st Speaker Cross</item>
+        <item>Pro Rebbutal</item>
+        <item>Con Rebuttal</item>
+        <item>2nd Speaker Cross</item>
+        <item>Pro Summary</item>
+        <item>Con Summary</item>
+        <item>Grand Cross</item>
+        <item>Pro Final Focus</item>
+        <item>Con Final Focus</item>
+    </string-array>
     <attr format="boolean" name="barrierAllowsGoneWidgets"/>
     <attr format="enum" name="barrierDirection">
         <enum name="left" value="0"/>
