@@ -1,13 +1,16 @@
-#Sun May 05 13:54:14 AEST 2019
+#Wed May 22 14:27:24 AEST 2019
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
+renamed.4=classes5.dex
 path.0=classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
+base.4=C\:\\Users\\Jacob\\Group3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 renamed.0=classes.dex
-base.3=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/13
-base.2=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/12
-base.1=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/15
-base.0=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/14
+base.3=C\:\\Users\\Jacob\\Group3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.2=C\:\\Users\\Jacob\\Group3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.1=C\:\\Users\\Jacob\\Group3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.0=C\:\\Users\\Jacob\\Group3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.4=classes2.dex
