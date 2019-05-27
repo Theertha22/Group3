@@ -42,14 +42,6 @@
                 ads:srcCompat="@drawable/profile" />
 
             <ImageView
-                android:id="@+id/heartRateImageView"
-                android:layout_width="30dp"
-                android:layout_height="60dp"
-                android:layout_marginStart="10dp"
-                android:gravity="center_vertical"
-                ads:srcCompat="@drawable/love" />
-
-            <ImageView
                 android:id="@+id/addMessageImageView"
                 android:layout_width="30dp"
                 android:layout_height="60dp"

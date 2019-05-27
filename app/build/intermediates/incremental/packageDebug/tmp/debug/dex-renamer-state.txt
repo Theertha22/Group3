@@ -1,7 +1,13 @@
-#Mon May 27 16:56:26 AEST 2019
-base.0=/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/transforms/dexMerger/debug/0
-path.1=classes2.dex
-renamed.1=classes2.dex
+#Mon May 27 21:56:39 AEST 2019
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
 path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
-base.1=/Users/theerthasunesh/Documents/Uni/2nd year/SES1A/SES1A_Group3/app/build/intermediates/transforms/dexMerger/debug/0
+base.3=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/13
+base.2=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/12
+base.1=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/15
+base.0=/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/transforms/dexMerger/debug/14
