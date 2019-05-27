@@ -126,31 +126,9 @@
             android:layout_gravity="center"
             android:layout_margin="10dp">
 
-            <TextView
-                android:id="@+id/genderTV"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:fontFamily="@font/roboto_slab_light"
-                android:gravity="center"
-                android:text="@string/prompt_gender" />
-
             <!--male-->
-            <RadioButton
-                android:id="@+id/maleRB"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="5dp"
-                android:layout_marginStart="10dp"
-                android:fontFamily="@font/roboto_slab_light"
-                android:text="@string/action_male_radioBtn" />
 
             <!--female-->
-            <RadioButton
-                android:id="@+id/femaleRB"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/roboto_slab_light"
-                android:text="@string/action_female_radioBtn" />
         </RadioGroup>
 
         <ImageButton
