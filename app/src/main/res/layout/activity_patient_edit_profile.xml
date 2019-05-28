@@ -185,7 +185,7 @@
                     android:layout_width="110dp"
                     android:layout_height="40dp"
                     android:fontFamily="@font/roboto_slab_light"
-                    android:hint="@string/hint_height"
+                    android:hint="@string/blood_type_name"
                     android:inputType="number" />
             </android.support.design.widget.TextInputLayout>
 

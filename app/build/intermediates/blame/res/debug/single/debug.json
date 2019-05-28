@@ -2028,10 +2028,6 @@
         "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fe9a4ff6a9b7457e477b2ca9d112e5ed/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/res/merged/debug/layout_show_camera.xml.flat",
-        "source": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/src/main/res/layout/show_camera.xml"
-    },
-    {
         "merged": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fe9a4ff6a9b7457e477b2ca9d112e5ed/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },

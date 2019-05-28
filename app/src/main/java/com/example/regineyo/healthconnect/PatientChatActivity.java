@@ -327,14 +327,6 @@ public class PatientChatActivity extends AppCompatActivity implements
             }
         });
 
-        addHeartRateImageView = findViewById(R.id.heartRateImageView);
-        addHeartRateImageView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(PatientChatActivity.this, HeartRateActivity.class);
-                startActivity(intent);
-            }
-        });
 
         mAddMessageImageView = findViewById(R.id.addMessageImageView);
         mAddMessageImageView.setOnClickListener(new View.OnClickListener() {
