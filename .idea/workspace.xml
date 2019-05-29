@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a8493bb-e3c2-4e62-9f39-9a4ff4dac4f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java" afterPath="$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +66,7 @@
       <file leaf-file-name="Camera2Renderer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2146">
+            <state relative-caret-position="242">
               <caret line="301" column="1" lean-forward="false" selection-start-line="301" selection-start-column="1" selection-end-line="301" selection-end-column="1" />
               <folding />
             </state>
@@ -3381,7 +3380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559092775863</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Login Funcitonality was only running when selecting Charity option, now running for both">
+      <created>1559093714903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559093714903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -3439,7 +3445,8 @@
     <MESSAGE value="Page created for log in for Donor/Charity" />
     <MESSAGE value="Login Funcitonality is Running" />
     <MESSAGE value="Login Funcitonality is Running --&gt; forgot to Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login Funcitonality is Running --&gt; forgot to Push" />
+    <MESSAGE value="Login Funcitonality was only running when selecting Charity option, now running for both" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login Funcitonality was only running when selecting Charity option, now running for both" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -3858,7 +3865,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2146">
+        <state relative-caret-position="242">
           <caret line="301" column="1" lean-forward="false" selection-start-line="301" selection-start-column="1" selection-end-line="301" selection-end-column="1" />
           <folding />
         </state>
