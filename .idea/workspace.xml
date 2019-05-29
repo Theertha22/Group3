@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a8493bb-e3c2-4e62-9f39-9a4ff4dac4f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java" afterPath="$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Camera2Renderer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2146">
+              <caret line="301" column="1" lean-forward="false" selection-start-line="301" selection-start-column="1" selection-end-line="301" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -3112,6 +3123,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java" />
       </list>
     </option>
   </component>
@@ -3139,6 +3151,28 @@
       <pane id="AndroidView">
         <subPane>
           <expand>
+            <path>
+              <item name="Group3" type="1abcf292:AndroidViewProjectNode" />
+              <item name="openCVLibrary310" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Group3" type="1abcf292:AndroidViewProjectNode" />
+              <item name="openCVLibrary310" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Group3" type="1abcf292:AndroidViewProjectNode" />
+              <item name="openCVLibrary310" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="opencv" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group3" type="1abcf292:AndroidViewProjectNode" />
+              <item name="openCVLibrary310" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="opencv" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="Group3" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -3340,7 +3374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559092760332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Login Funcitonality is Running --&gt; forgot to Push">
+      <created>1559092775863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559092775863</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -3397,7 +3438,8 @@
     <MESSAGE value="Page created for log in" />
     <MESSAGE value="Page created for log in for Donor/Charity" />
     <MESSAGE value="Login Funcitonality is Running" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login Funcitonality is Running" />
+    <MESSAGE value="Login Funcitonality is Running --&gt; forgot to Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login Funcitonality is Running --&gt; forgot to Push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -3810,6 +3852,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVLibrary310/src/main/java/org/opencv/android/Camera2Renderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2146">
+          <caret line="301" column="1" lean-forward="false" selection-start-line="301" selection-start-column="1" selection-end-line="301" selection-end-column="1" />
           <folding />
         </state>
       </provider>
