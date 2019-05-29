@@ -3,24 +3,30 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/B_charity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#E91E63"
+        android:onClick="Onclick"
+        android:text="NEAREST CHARITY"
+        android:textStyle="bold" />
+</LinearLayout>
+
+
     <fragment xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/map"
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="681dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="-1dp"
         tools:context=".MapsActivity" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="match_parent"
-        android:layout_height="66dp"
-        android:backgroundTint="#E91E63"
-        android:text="SEARCH NEAREST CHARITY"
-        android:textAllCaps="false"
-        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-        android:textColor="#03A9F4"
-        android:textStyle="bold" />
-   
 
 </RelativeLayout>
