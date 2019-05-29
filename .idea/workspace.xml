@@ -3333,7 +3333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559050893660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Login Funcitonality is Running">
+      <created>1559092760332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559092760332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -3389,7 +3396,8 @@
     <MESSAGE value="Got app to run" />
     <MESSAGE value="Page created for log in" />
     <MESSAGE value="Page created for log in for Donor/Charity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page created for log in for Donor/Charity" />
+    <MESSAGE value="Login Funcitonality is Running" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login Funcitonality is Running" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
