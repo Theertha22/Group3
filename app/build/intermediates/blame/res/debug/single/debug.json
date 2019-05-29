@@ -12,12 +12,12 @@
         "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\layout\\activity_map.xml"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checked.png.flat",
-        "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\drawable\\checked.png"
-    },
-    {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_background.xml.flat",
         "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checked.png.flat",
+        "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\drawable\\checked.png"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_background_patient.xml.flat",
@@ -28,24 +28,24 @@
         "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_registration.xml.flat",
-        "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\layout\\activity_doctor_registration.xml"
-    },
-    {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_show_camera.xml.flat",
         "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\layout\\show_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_registration.xml.flat",
+        "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\layout\\activity_doctor_registration.xml"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doctor_2.png.flat",
-        "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\drawable\\doctor_2.png"
-    },
-    {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fui_welcome_back_password_prompt_layout.xml.flat",
         "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-4.2.0.aar\\d78115ceace11d89d587b336a5c67a45\\res\\layout\\fui_welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doctor_2.png.flat",
+        "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\drawable\\doctor_2.png"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -64,16 +64,16 @@
         "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
-        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\33e9cded2b458cf7a12eac061c10742b\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\33e9cded2b458cf7a12eac061c10742b\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -124,12 +124,12 @@
         "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
-        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\33e9cded2b458cf7a12eac061c10742b\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
@@ -236,12 +236,12 @@
         "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\layout\\activity_patient_registration.xml"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
         "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\86afb6ff6f3a5b5afafa9dd626fa8583\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_home_page.xml.flat",
@@ -292,16 +292,16 @@
         "source": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\src\\main\\res\\drawable\\gradient_background_doctor.xml"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_fui_idp_button_background_facebook.xml.flat",
-        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-4.2.0.aar\\d78115ceace11d89d587b336a5c67a45\\res\\drawable-v21\\fui_idp_button_background_facebook.xml"
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
-        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6e905bd5317dfbeb454f64250b62189\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_fui_idp_button_background_facebook.xml.flat",
+        "source": "C:\\Users\\janna\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-4.2.0.aar\\d78115ceace11d89d587b336a5c67a45\\res\\drawable-v21\\fui_idp_button_background_facebook.xml"
     },
     {
         "merged": "C:\\Users\\janna\\StudioProjects\\Group3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fui_activity_register_email.xml.flat",
