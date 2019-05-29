@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/Users/ishitaverghese/Documents/Group3_Latest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.2.0.aar/899ad1fdf7c5549d21f6775924768516/res/values-v26/values-v26.xml",
+                    "source": "/Users/ishitaverghese/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.2.0.aar/c9c1187e2de6ecc8755d83e20b49b8a2/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,6,10,14",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fe9a4ff6a9b7457e477b2ca9d112e5ed/res/values-v26/values-v26.xml",
+                    "source": "/Users/ishitaverghese/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7e320f03c7ccce31cce9e67a1e51a1ba/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a924c365f3e68f1a98a2bb77e0a8f931/res/values-v26/values-v26.xml",
+                    "source": "/Users/ishitaverghese/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/cac4756335b9b27f3031ab7518c574a3/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

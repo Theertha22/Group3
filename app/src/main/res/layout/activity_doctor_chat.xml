@@ -38,7 +38,7 @@
                 android:gravity="center_vertical"
                 android:text="@string/action_select_charity"
                 android:textColor="#2E86C1"
-                android:textSize="25sp"
+                android:textSize="30sp"
                 android:textStyle="bold"/>
 
             <ImageView
