@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri May 31 09:35:08 AEST 2019
+#Fri May 31 10:05:37 AEST 2019
 4.path=crashlytics-build.properties
 8.set=DEX
 6.path=lib/mips64/libopencv_java3.so
