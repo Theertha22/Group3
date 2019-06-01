@@ -81,6 +81,7 @@
         <activity android:name="com.example.regineyo.healthconnect.PatientProfileActivity" />
         <activity android:name="com.example.regineyo.healthconnect.DoctorProfileActivity" />
         <activity android:name="com.example.regineyo.healthconnect.HeartRateActivity" />
+        <activity android:name="com.example.regineyo.healthconnect.CalendarActivity" />
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"

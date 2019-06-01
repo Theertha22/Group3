@@ -86,6 +86,7 @@ public class PatientChatActivity extends AppCompatActivity implements
     private static final String MESSAGE_SENT_EVENT = "message_sent";
     private static final String MESSAGE_URL = "http://friendlychat.firebase.google.com/message/";
 
+
     private String mUsername, mPhotoUrl, mUserID, doctorName, doctorID;
     private SharedPreferences mSharedPreferences;
     private GoogleApiClient mGoogleApiClient;
@@ -106,6 +107,10 @@ public class PatientChatActivity extends AppCompatActivity implements
     private FirebaseUser mFirebaseUser;
     private DatabaseReference mFirebaseDatabaseReference;
     private FirebaseRecyclerAdapter<ChatMessage, PatientChatActivity.MessageViewHolder> mFirebaseAdapter;
+
+    //calendar
+    private TextView thedate;
+    private ImageView btngocalendar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -347,6 +352,21 @@ public class PatientChatActivity extends AppCompatActivity implements
                 getDeviceCurrentLocation();
             }
         });
+
+           // thedate = (TextView) findViewById(R.id.date);
+            btngocalendar = findViewById(R.id.btngocalendar);
+
+            Intent incoming = getIntent();
+            String date = incoming.getStringExtra("date");
+           // thedate.setText(date);
+
+            btngocalendar.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intent = new Intent(PatientChatActivity.this, CalendarActivity.class);
+                    startActivity(intent);
+                }
+            });
     }
 
     // Fetch the config to determine the allowed length of messages.
@@ -542,4 +562,7 @@ public class PatientChatActivity extends AppCompatActivity implements
                     }
                 });
     }
-}
+
+
+
+    }

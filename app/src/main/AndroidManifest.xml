@@ -60,6 +60,7 @@
         <activity android:name=".PatientProfileActivity" />
         <activity android:name=".DoctorProfileActivity"></activity>
         <activity android:name=".HeartRateActivity" />
+        <activity android:name=".CalendarActivity" />
     </application>
 
 </manifest>
