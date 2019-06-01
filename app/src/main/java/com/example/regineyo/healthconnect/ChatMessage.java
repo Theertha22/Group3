@@ -21,6 +21,15 @@ public class ChatMessage {
         this.name = name;
         this.photoUrl = photoUrl;
         this.imageUrl = imageUrl;
+
+
+
+
+
+
+
+
+
     }
 
     public String getId() {
@@ -66,13 +75,15 @@ public class ChatMessage {
 }
 
 
+
+
 //public class ChatMessage {
 //    private String messageText;
 //    private String messageUser;
 //    private long messageTime;
 //
 //    public ChatMessage(String messageText, String messageUser) {
-//        this.messageText = messageText;
+//        this.messageText = messageText
 //        this.messageUser = messageUser;
 //
 //        // Initialize to current time
