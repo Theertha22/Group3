@@ -620,6 +620,10 @@
         "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fe9a4ff6a9b7457e477b2ca9d112e5ed/res/drawable/abc_textfield_search_material.xml"
     },
     {
+        "merged": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/res/merged/debug/drawable_heart.png.flat",
+        "source": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/src/main/res/drawable/heart.png"
+    },
+    {
         "merged": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/michaelfedulov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fe9a4ff6a9b7457e477b2ca9d112e5ed/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -654,6 +658,10 @@
     {
         "merged": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/res/merged/debug/drawable_primary_patient_button.xml.flat",
         "source": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/src/main/res/drawable/primary_patient_button.xml"
+    },
+    {
+        "merged": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/res/merged/debug/drawable_hospital.png.flat",
+        "source": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/src/main/res/drawable/hospital.png"
     },
     {
         "merged": "/Users/michaelfedulov/Documents/UTS/Year 4/41093 SES1A/Group3/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",

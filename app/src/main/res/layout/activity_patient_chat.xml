@@ -43,11 +43,11 @@
 
             <ImageView
                 android:id="@+id/heartRateImageView"
-                android:layout_width="30dp"
-                android:layout_height="60dp"
-                android:layout_marginStart="10dp"
-                android:gravity="center_vertical"
-                ads:srcCompat="@drawable/love" />
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_marginStart="1dp"
+                android:gravity="center_vertical" />
+                --ads:srcCompat="@drawable/love" />
 
             <ImageView
                 android:id="@+id/addMessageImageView"

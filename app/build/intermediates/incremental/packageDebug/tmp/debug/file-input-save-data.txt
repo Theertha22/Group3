@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 05 13:54:15 AEST 2019
+#Sat Jun 01 16:53:34 AEST 2019
 4.path=lib/armeabi-v7a/libopencv_java3.so
 8.set=DEX
 6.path=crashlytics-build.properties
