@@ -34,7 +34,7 @@
     <string name="action_send">Send</string>
     <string name="action_send_HR">Send your heart rate</string>
     <string name="hint_sCode">Clinic code</string>
-    <string name="prompt_gender">Contact Name</string>
+    <string name="prompt_gender">Contact Gender</string>
     <string name="action_male_radioBtn">Male</string>
     <string name="action_female_radioBtn">Female</string>
     <string name="action_date_of_birth">Date of birth</string>

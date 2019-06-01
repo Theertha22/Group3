@@ -51,14 +51,14 @@
                     android:layout_width="70dp"
                     android:layout_height="70dp"
                     android:layout_marginEnd="30dp"
-                    android:background="@drawable/donor"
+                    android:background="@drawable/heart"
                     android:padding="10dp" />
 
                 <ImageButton
                     android:id="@+id/doctorBtn"
                     android:layout_width="70dp"
                     android:layout_height="70dp"
-                    android:background="@drawable/doctor_2"
+                    android:background="@drawable/hospital"
                     android:text="@string/action_select_charity" />
             </TableRow>
 
